@@ -1,0 +1,8 @@
+Nama		Qty 	Harga 
+Handphone	2	50000
+Kipas		18	420000
+Lampu		7	15000
+Televisi	3	1850000
+Meja		12	100000
+Kursi		48	50000
+Kulkas		8	2000000
