@@ -1,4 +1,3 @@
-Nama		Qty 	Harga 
 Handphone	2	50000
 Kipas		18	420000
 Lampu		7	15000
